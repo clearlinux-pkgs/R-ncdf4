@@ -4,7 +4,7 @@
 #
 Name     : R-ncdf4
 Version  : 1.19
-Release  : 18
+Release  : 19
 URL      : https://cran.r-project.org/src/contrib/ncdf4_1.19.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ncdf4_1.19.tar.gz
 Summary  : Interface to Unidata netCDF (Version 4 or Earlier) Format Data
